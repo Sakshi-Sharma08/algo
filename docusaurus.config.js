@@ -99,7 +99,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "/",
+      image: "logo/logo.png",
       announcementBar: {
         id: "announcementBar_algo_community",
         content:
